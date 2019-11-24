@@ -16,7 +16,7 @@ The project was inspired by [Mitxela's Thermal Paper Polaroid](https://mitxela.c
 - Install the OS on your single-board PC (https://www.armbian.com/ for my case)
 - Connect to your single-board PC via SSH or attach keyboard/monitor for more comfortable setup actions
 - Install `fswebcam` (`sudo apt-get install fswebcam`) and connect your webcam
-- (optional) Install drivers for your webcam in needed
+- (optional) Install drivers for your webcam if needed
 - Connect and configure your printer (very usefull link https://learn.adafruit.com/networked-thermal-printer-using-cups-and-raspberry-pi/connect-and-configure-printer)
 - Connect button (for my case `PA.10` pin is used as input and connected to one button's pin and another pin is connected to 3.3V pin)
 - (optional) Connect button's LED or separate LED (for my case `PA.14` pin is connected to LED's + terminal and GND pin to LED's - terminal)
