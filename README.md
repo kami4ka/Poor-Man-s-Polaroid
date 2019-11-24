@@ -27,7 +27,7 @@ The project was inspired by [Mitxela's Thermal Paper Polaroid](https://mitxela.c
 - Enjoy your DIY Poor Man's Polaroid
 
 # What about enclosure?
-You can use your own encloure for this project. I have a 3D printed model for my device enclosure, but while installation I had to file it a bit to place my thermal printer. I'll add it after few fixed or AS IS for community improvements.
+You can use your own encloure for this project. I have a 3D model for my device enclosure, but while installation I had to file it a bit to place my thermal printer. Printed model link: https://a360.co/2s8DhJL
 
 # Ok. It's pretty clear. But why?
 Because every photo costs as a sip of cofee. Literally. Or even cheaper.
