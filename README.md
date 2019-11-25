@@ -10,7 +10,7 @@ The project was inspired by [Mitxela's Thermal Paper Polaroid](https://mitxela.c
 - [Orange Pi Zero](https://ru.aliexpress.com/item/4000049806939.html) (Or some other cheap single-board PC)
 - [Cheap Thermal Printer with USB or RS-232 interface](https://ru.aliexpress.com/item/4000022056557.html) (As well as above item you can use any cheaper or better alternative)
 - [Button w/ or w/o LED inside](https://ru.aliexpress.com/item/32850614630.html)
-- [Web Camera](defender-global.com/catalog/webcams/c-110-0-3mp-backlight-photo-button) (Any supported and affordable camera)
+- [Web Camera](http://defender-global.com/catalog/webcams/c-110-0-3mp-backlight-photo-button) (Any supported and affordable camera)
 
 # How To
 - Install the OS on your single-board PC (https://www.armbian.com/ for my case)
